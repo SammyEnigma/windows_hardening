@@ -680,7 +680,7 @@
     #
     # Start Main
     #
-    $HardeningKittyVersion = "0.9.4-1759654192"
+    $HardeningKittyVersion = "0.9.4-1768134928"
 
     #
     # Log, report and backup file
@@ -1987,6 +1987,15 @@
             If (-not($IsAdmin)) {
                 Write-NotAdminError -FindingID "42" -FindingName "System Restore Point" -FindingMethod "Checkpoint-Computer"
                 Continue
+            }
+
+            If ($PSVersionTable.PSVersion.Major -gt 5) {
+                $Message = "The cmdlet used to create a system restore has been removed from PowerShell in version 6 onwards. To create a system restore, run HardeninKitty with PowerShell version 5. Alternatively, create a system restore point manually and use the -SkipRestorePoint parameter to run HailMary anyway. Be careful!"
+                Write-ResultEntry -Text $Message -SeverityLevel "High"
+                If ($Log) {
+                    Add-MessageToFile -Text $Message -File $LogFile
+                }
+                Break
             }
 
             Try {
