@@ -576,6 +576,7 @@ The IDs correspond to the finding lists for HardeningKitty [finding_list_0x6d696
 
 #### Windows Logon Options
 
+* ID 1776: Set _Configure the transmission of the user's password in the content of MPR notifications sent by winlogon_ to **Disabled**
 * ID 1752: Set _Sign-in and lock last interactive user automatically after a restart_ to **Disabled**
 
 #### Windows PowerShell
