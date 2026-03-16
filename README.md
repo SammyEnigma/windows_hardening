@@ -213,6 +213,10 @@ The formula for the HardeningKitty Score is _(Points achieved / Maximum points) 
 
 [@ataumo](https://github.com/ataumo) build a web based interface for HardeningKitty. The tool can be used to create your own lists and provides additional information on the hardening settings. The [source code](https://github.com/ataumo/policies_hardening_interface) is under AGPL license and there is a [demo site](https://phi.cryptonit.fr/policies_hardening_interface/).
 
+### KittyPorter - Make Hardening Kitty Reports Great Again
+
+[Yair](https://github.com/Y8765) took care of presenting HardeningKitty results for sysadmins and even management in the form of a beautiful Excel spreadsheet containing Security Assessment Dashboards and a Dashboard with Dynamic Updates based on the status of findings, as well as an HTML Report Overview. He publishes his work in the [KittyPorter](https://github.com/Y8765/KittyPorter) repo.
+
 ### Last Update
 
 HardeningKitty can be used to audit systems against the following baselines / benchmarks:
