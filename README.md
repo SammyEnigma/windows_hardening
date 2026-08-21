@@ -341,7 +341,7 @@ HardeningKitty can be used to audit systems against the following baselines / be
 | Microsoft Security baseline for Microsoft Edge | 114, 115, 116 | Final |
 | Microsoft Security baseline for Microsoft Edge | 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127 | Final |
 | Microsoft Security baseline for Microsoft Edge | 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138 | Final |
-| Microsoft Security baseline for Microsoft Edge | 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149 | Final |
+| Microsoft Security baseline for Microsoft Edge | 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150 | Final |
 | Microsoft Security baseline for Windows 10 | 2004 | Final |
 | Microsoft Security baseline for Windows 10 | 20H2, 21H1 | Final |
 | Microsoft Security baseline for Windows 10 | 21H2 | Final |
@@ -483,6 +483,7 @@ HardeningKitty can be used to audit systems against the following baselines / be
 * [Security baseline for Microsoft Edge v147](https://techcommunity.microsoft.com/blog/microsoft-security-baselines/security-review-for-microsoft-edge-version-147/4509974)
 * [Security baseline for Microsoft Edge v148](https://techcommunity.microsoft.com/blog/microsoft-security-baselines/security-review-for-microsoft-edge-version-148/4521209)
 * [Security baseline for Microsoft Edge v149](https://techcommunity.microsoft.com/blog/microsoft-security-baselines/security-review-for-microsoft-edge-version-149/4526371)
+* [Security baseline for Microsoft Edge v150](https://techcommunity.microsoft.com/blog/microsoft-security-baselines/security-review-for-microsoft-edge-version-150/4546730)
 * [Microsoft Edge - Policies](https://docs.microsoft.com/en-us/DeployEdge/microsoft-edge-policies)
 * [A hint for Office 365 Telemetry](https://twitter.com/milenkowski/status/1326865844215934979)
 * [BSI: Microsoft Office Telemetry Analysis report](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Publikationen/Studien/Office_Telemetrie/Office_Telemetrie.pdf?__blob=publicationFile&v=5)
