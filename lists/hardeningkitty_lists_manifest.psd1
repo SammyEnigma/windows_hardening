@@ -35,7 +35,7 @@
         'finding_list_cis_microsoft_windows_11_enterprise_22h2_user.csv' = 'AF2DF99E7A4B65F921B11B71623FBA3E2B9F2E8EB21E0F34D24040E958734047'
         'finding_list_cis_microsoft_windows_11_enterprise_23h2_machine.csv' = 'CA8E753897BC68D79D04227418AFA8FE655ABD9947CD32FA8D1C69BCDDD5DF96'
         'finding_list_cis_microsoft_windows_11_enterprise_23h2_user.csv' = '7263DA359D9AEF3FFA6B7398CDF0EC87233BEDD29D867A0A50DCC1E21DF110D8'
-        'finding_list_cis_microsoft_windows_11_enterprise_24h2_machine.csv' = 'AD20BD522495AF9023F163629BDBFB803D8F5E1D90D8B40AB88126E0CAF67AA7'
+        'finding_list_cis_microsoft_windows_11_enterprise_24h2_machine.csv' = '1BCDCC42C41C4C222BA2AF8346C0C97796DBDBC98080ACE24D565AA880A84A93'
         'finding_list_cis_microsoft_windows_11_enterprise_24h2_user.csv' = '02779EA283EF5DDF18CFEB14A05FBB244604E7C042E96B1839DAD6B92411A563'
         'finding_list_cis_microsoft_windows_server_2012_r2_2.4.0_machine.csv' = '4C00B0167FE69B558B395BF1313AF85DE60990A2F3C8D90F532936C1D83B7C81'
         'finding_list_cis_microsoft_windows_server_2012_r2_2.4.0_user.csv' = '1E7A9302AC4361B1EC54EBB66AAF121257D39A6D44B6905CCB4CEA5DE93BD8FB'
