@@ -77,7 +77,7 @@
         'finding_list_dod_microsoft_windows_server_2019_member_stig_v2r1_user.csv' = 'AA3B8F180BFEEDCC690F427FD0756292019F9D991D4F6B06E09371C718A0AF07'
         'finding_list_dod_windows_defender_antivirus_stig_v2r1.csv' = '00FDFBEFC9AC9D00A984D06E2B4C28DDB600852441D82F6F3C875F3C39E5D1B7'
         'finding_list_dod_windows_firewall_stig_v1r7.csv' = '82438B3773D7DE069CC1E8BF2831DF2E678F5D1BDE96B31145ACB420F213A9DA'
-        'finding_list_intune.csv' = '0853F1BD6726DDC7249D07F3D92DFD777D0A5B514E919419D193053D19E48906'
+        'finding_list_intune.csv' = 'DB4AA711DEAA21343C4400E29C5C3707CA7A5D9A64F11445E3495628C3E1D272'
         'finding_list_microsoft_windows_tls.csv' = 'E2A4FC5EA430764131FC1F2F7BEF370BC77C140FC9540E87A630814B55A76D15'
         'finding_list_microsoft_windows_tls_future.csv' = 'F777F353AE37D1BE4DE6529B2EB53F45E89CE7283EDA2BD020CED4CC65E6C68E'
         'finding_list_msft_security_baseline_edge_107_machine.csv' = '2FFBA25AE476FD3890038E05E48AD85242442EE826AF658071157266BAE204BB'
@@ -86,6 +86,7 @@
         'finding_list_msft_security_baseline_edge_117_machine.csv' = '1DC3BE1F589082B1E212B08A05F20DE2897F8BFD92914BD1A6CA7D5B53447BAC'
         'finding_list_msft_security_baseline_edge_128_machine.csv' = 'A5580C2C1F970C46FF6CA92EC64E81FA49CD301F98C12C2B3053132DE06F0B2E'
         'finding_list_msft_security_baseline_edge_139_machine.csv' = '4F6354DB6F1FE005359EA5E6EA3F6D871664CAA538F8F9BB5DA9403BC9DB3E2A'
+        'finding_list_msft_security_baseline_edge_151_machine.csv' = 'A4C624DFCB1A8C3702AE00E84BC51496B661A51178577DE1F1B6F02CDF10A782'
         'finding_list_msft_security_baseline_edge_87_machine.csv' = 'AD47B85960A61EED3EA25496FE473FAE2BD241BCF25A7DA0EA6CAABABA2C2279'
         'finding_list_msft_security_baseline_edge_88_machine.csv' = '9B2DF280EEA330EFE6AB6C6C9CCF60A75F47D489A4E1FAFDEFAA5215DE7CBF4B'
         'finding_list_msft_security_baseline_edge_92_machine.csv' = '462E950F688BCC23AD46C0FB39CA138B616A7CF4A3F024213C4F86ECE39D235F'
@@ -134,6 +135,6 @@
         'finding_list_msft_security_baseline_windows_server_2025_2602_member_machine.csv' = 'EDC1F6A580735A12D5054CCB1333CDFF966B1C2040E3140267E356B5CDC13A94'
         'finding_list_msft_security_baseline_windows_server_20h2_dc_machine.csv' = 'A632A3E38D867F3DD6D91214F3C73308F0904E8BF2AA9240F38051B5EDF32573'
         'finding_list_msft_security_baseline_windows_server_20h2_member_machine.csv' = 'DA292964866AD8B0C8B82C676069C27BCC0C2A04C392A00E8484CF49565D63FA'
-        'finding_list_translation.csv' = '3266C54C7628E543B12C15C4E666A0D0F712643A4133D34C46E1C124DF79B3BF'
+        'finding_list_translation.csv' = 'AEA97B0E3B39D3D539591FE77A421F137482AB87A3E265E1A2DD549C625329EC'
     }
 }
